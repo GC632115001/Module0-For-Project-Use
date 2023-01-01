@@ -1,0 +1,1 @@
+{"url": "https://www.google.com/maps?ll=18.800454,98.950403&z=14&t=m&hl=th&gl=TH&mapclient=embed&cid=9654499549222405188", "title": "Google Maps", "text": "When you have eliminated the JavaScript , whatever remains must be an empty page.  เปิดใช้ JavaScript เพื่อดู Google Maps", "url_lists": ["https://support.google.com/maps/?hl=th&authuser=0&p=no_javascript"]}
